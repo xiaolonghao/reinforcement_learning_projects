@@ -1,3 +1,7 @@
+重点看 Pendulum/A3C 
+
+对torch.multiprocessing 讲解 及A3C的实现 通俗易懂
+
 ## Introduction
 
 Using (deep) reinforcement_learning algorithm to practice on OpenAI Gym, Unity ML-Agents,and other virtual environments. 
